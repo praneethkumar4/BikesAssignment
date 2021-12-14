@@ -24,7 +24,7 @@ You are required to model the demand for shared bikes with the available indepen
 
 
 # How-To-Run
-Download the project and run the BoomBikes.ipynb using your python kernel.
+Download the project and run the BikesAssignment.ipynb using your python kernel.
 ## Technologies Used
 - Python with Pandas , Seaborn , Matplotlib
 - SKLearn for Regression models
